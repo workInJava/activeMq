@@ -32,4 +32,9 @@ public class UserInfo {
         this.emailAddress = emailAddress;
     }
     
+    
+    public void test(String str,int tt){
+    	
+    	System.out.println(str+tt);
+    }
 }

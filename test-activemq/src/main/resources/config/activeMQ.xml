@@ -41,5 +41,4 @@
 		acknowledge="auto">
 		<jms:listener destination="backend.email.notify" ref="emailNotify" />
 	</jms:listener-container> -->
-	<!-- ====Consumer side end==== -->
 </beans>  
